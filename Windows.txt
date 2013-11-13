@@ -1,0 +1,17 @@
+ Volume in drive C has no label.
+ Volume Serial Number is D644-C32F
+
+ Directory of C:\Users\donald.lee\Documents\GitHub\Prog270-Lee-Week08-GitPractice
+
+10/31/2013  09:26 PM               505 .gitattributes
+10/31/2013  09:26 PM             2,858 .gitignore
+11/12/2013  06:12 PM                14 Test01.md.txt
+11/12/2013  06:12 PM                14 Test02.md.txt
+11/12/2013  06:19 PM    <DIR>          images
+11/12/2013  08:17 PM               563 CloudNine.txt
+11/12/2013  08:17 PM               627 Lubuntu.txt
+11/12/2013  08:20 PM    <DIR>          ..
+11/12/2013  08:20 PM    <DIR>          .
+11/12/2013  08:20 PM                 0 Windows.txt
+               7 File(s)          4,581 bytes
+               3 Dir(s)  130,171,854,848 bytes free
